@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ragibs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web development @BrainStation
-- 📫 How to reach me @ ragib@hotmail.ca
+- 📫 How to reach me at ragib@hotmail.ca
 
 <!---
 ragibs/ragibs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
