@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m ragib 👨🏽‍💻
-- 🌱 I’m currently learning web development @BrainStation. You can checkout my projects completed during the bootcamp: 
+- 🌱 I’m currently learning web development @BrainStation. You can check my completed projects : 
 - 📫 You can reach me at ragib@hotmail.ca
 
 
