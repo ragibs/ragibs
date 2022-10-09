@@ -1,4 +1,4 @@
-### 👋 Hi, I’m ragib 👨🏽‍💻
+### 👋 Hi, I’m Ragib 👨🏽‍💻
 - 🌱 I’m a recent web development bootcamp graduate from BrainStation. You can check my completed projects : [BrainStation Projects](https://github.com/ragibs/brainstaion-projects)
 - 📫 You can reach me at ragib@hotmail.ca
 
