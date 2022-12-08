@@ -19,9 +19,7 @@
 <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 
 
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ragibs&theme=github-light&hide_border=true)](https://github.com/ragibs)
 
 
 
