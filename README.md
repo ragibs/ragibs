@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Ragib 👨🏽‍💻
-- 🌱 I recently graduated from BrainStation's web development bootcamp. You can check out my completed BrainStation Projects [here](https://github.com/ragibs/brainstaion-projects).
+- 🌱 I am a recent graduate of BrainStation's Web Development Bootcamp where I honed my skills in technologies such as React JS, Sass, Node JS, Express, mySQL, and MongoDB. You can check out my completed BrainStation Projects [here](https://github.com/ragibs/brainstaion-projects).
 - 📫 You can reach me at ragib@hotmail.ca
 
 
