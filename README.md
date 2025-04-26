@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Ragib 👨🏽‍💻
-  🌱 I’m a Master of Engineering student in Software Engineering at the University of Calgary with extensive experience in web application development. 
-  📫 You can reach me at ragib@hotmail.ca
+  - 🌱 I’m a Master of Engineering student in Software Engineering at the University of Calgary with extensive experience in web application development. 
+  - 📫 You can reach me at ragib@hotmail.ca
 
 
 
